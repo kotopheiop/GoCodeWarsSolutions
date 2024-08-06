@@ -1,6 +1,6 @@
 # GoCodeWarsSolutions
 
-![Codewars Badge](https://www.codewars.com/users/kotopheiop/badges/large)
+![Codewars Badge](https://www.codewars.com/users/kotopheiOP/badges/large)
 
 Этот репозиторий содержит мои решения задач с сайта [Codewars](https://www.codewars.com/), написанные на языке Go.
 
